@@ -11,6 +11,7 @@
 		4BCFBE702C075E3B00290B02 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BCFBE6F2C075E3B00290B02 /* ContentView.swift */; };
 		4BCFBE722C075E4000290B02 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BCFBE712C075E4000290B02 /* Assets.xcassets */; };
 		4BCFBE752C075E4000290B02 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BCFBE742C075E4000290B02 /* Preview Assets.xcassets */; };
+		4BCFBE7E2C076F8200290B02 /* SwiftUIText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BCFBE7D2C076F8200290B02 /* SwiftUIText.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4BCFBE6F2C075E3B00290B02 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4BCFBE712C075E4000290B02 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4BCFBE742C075E4000290B02 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4BCFBE7D2C076F8200290B02 /* SwiftUIText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIText.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				4BCFBE6D2C075E3B00290B02 /* SwiftUIForBeginnersApp.swift */,
 				4BCFBE6F2C075E3B00290B02 /* ContentView.swift */,
+				4BCFBE7D2C076F8200290B02 /* SwiftUIText.swift */,
 				4BCFBE712C075E4000290B02 /* Assets.xcassets */,
 				4BCFBE732C075E4000290B02 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4BCFBE702C075E3B00290B02 /* ContentView.swift in Sources */,
+				4BCFBE7E2C076F8200290B02 /* SwiftUIText.swift in Sources */,
 				4BCFBE6E2C075E3B00290B02 /* SwiftUIForBeginnersApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
