@@ -16,6 +16,7 @@
 		4BCFBE7E2C076F8200290B02 /* SwiftUIText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BCFBE7D2C076F8200290B02 /* SwiftUIText.swift */; };
 		4BD76B282C134EE30011D177 /* SwiftUIRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BD76B272C134EE30011D177 /* SwiftUIRectangle.swift */; };
 		4BD76B2A2C1353920011D177 /* SwiftUICapsule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BD76B292C1353920011D177 /* SwiftUICapsule.swift */; };
+		4BDAF8422C19E34700114A8E /* SwiftUIColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDAF8412C19E34700114A8E /* SwiftUIColors.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		4BCFBE7D2C076F8200290B02 /* SwiftUIText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIText.swift; sourceTree = "<group>"; };
 		4BD76B272C134EE30011D177 /* SwiftUIRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIRectangle.swift; sourceTree = "<group>"; };
 		4BD76B292C1353920011D177 /* SwiftUICapsule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUICapsule.swift; sourceTree = "<group>"; };
+		4BDAF8412C19E34700114A8E /* SwiftUIColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIColors.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				4B3BF7242C10E2800043A56D /* SwiftUIEllipse.swift */,
 				4BD76B272C134EE30011D177 /* SwiftUIRectangle.swift */,
 				4BD76B292C1353920011D177 /* SwiftUICapsule.swift */,
+				4BDAF8412C19E34700114A8E /* SwiftUIColors.swift */,
 				4BCFBE712C075E4000290B02 /* Assets.xcassets */,
 				4BCFBE732C075E4000290B02 /* Preview Content */,
 			);
@@ -155,6 +158,7 @@
 				4BCFBE702C075E3B00290B02 /* ContentView.swift in Sources */,
 				4BCFBE7E2C076F8200290B02 /* SwiftUIText.swift in Sources */,
 				4B3BF7252C10E2800043A56D /* SwiftUIEllipse.swift in Sources */,
+				4BDAF8422C19E34700114A8E /* SwiftUIColors.swift in Sources */,
 				4BD76B2A2C1353920011D177 /* SwiftUICapsule.swift in Sources */,
 				4BD76B282C134EE30011D177 /* SwiftUIRectangle.swift in Sources */,
 				4BCFBE6E2C075E3B00290B02 /* SwiftUIForBeginnersApp.swift in Sources */,
