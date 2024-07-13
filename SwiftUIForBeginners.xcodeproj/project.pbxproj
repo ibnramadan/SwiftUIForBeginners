@@ -15,6 +15,7 @@
 		4B694B422C32BFEA00696225 /* SwiftUIAsyncImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B694B412C32BFEA00696225 /* SwiftUIAsyncImage.swift */; };
 		4B6E50F22C398734004B7873 /* SwiftUIVStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B6E50F12C398734004B7873 /* SwiftUIVStack.swift */; };
 		4B7391162C3AFA5E00E04D25 /* SwiftUIHStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7391152C3AFA5E00E04D25 /* SwiftUIHStack.swift */; };
+		4B82180F2C42C664000D2516 /* SwiftUIFrame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B82180E2C42C664000D2516 /* SwiftUIFrame.swift */; };
 		4B87CFAF2C3D85BD001234B1 /* SwiftUIZStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B87CFAE2C3D85BD001234B1 /* SwiftUIZStack.swift */; };
 		4B8918202C26F2B400D3D949 /* SwiftUIImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B89181F2C26F2B400D3D949 /* SwiftUIImage.swift */; };
 		4BCFBE6E2C075E3B00290B02 /* SwiftUIForBeginnersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BCFBE6D2C075E3B00290B02 /* SwiftUIForBeginnersApp.swift */; };
@@ -36,6 +37,7 @@
 		4B694B412C32BFEA00696225 /* SwiftUIAsyncImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAsyncImage.swift; sourceTree = "<group>"; };
 		4B6E50F12C398734004B7873 /* SwiftUIVStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIVStack.swift; sourceTree = "<group>"; };
 		4B7391152C3AFA5E00E04D25 /* SwiftUIHStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIHStack.swift; sourceTree = "<group>"; };
+		4B82180E2C42C664000D2516 /* SwiftUIFrame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIFrame.swift; sourceTree = "<group>"; };
 		4B87CFAE2C3D85BD001234B1 /* SwiftUIZStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIZStack.swift; sourceTree = "<group>"; };
 		4B89181F2C26F2B400D3D949 /* SwiftUIImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIImage.swift; sourceTree = "<group>"; };
 		4BCFBE6A2C075E3B00290B02 /* SwiftUIForBeginners.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIForBeginners.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -95,6 +97,7 @@
 				4B87CFAE2C3D85BD001234B1 /* SwiftUIZStack.swift */,
 				4B16C4D72C400EDC00C00DF2 /* SwiftUIBackground.swift */,
 				4B16C4D92C401F2C00C00DF2 /* SwiftUIOverlay.swift */,
+				4B82180E2C42C664000D2516 /* SwiftUIFrame.swift */,
 				4BCFBE712C075E4000290B02 /* Assets.xcassets */,
 				4BCFBE732C075E4000290B02 /* Preview Content */,
 			);
@@ -179,6 +182,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B82180F2C42C664000D2516 /* SwiftUIFrame.swift in Sources */,
 				4B16C4D82C400EDC00C00DF2 /* SwiftUIBackground.swift in Sources */,
 				4B694B422C32BFEA00696225 /* SwiftUIAsyncImage.swift in Sources */,
 				4B87CFAF2C3D85BD001234B1 /* SwiftUIZStack.swift in Sources */,
