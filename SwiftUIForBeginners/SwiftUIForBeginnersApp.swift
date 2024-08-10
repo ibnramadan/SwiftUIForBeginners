@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUIForBeginnersApp: App {
     var body: some Scene {
         WindowGroup {
-            SwiftUIOnAppear()
+            SwiftUIOnSubmit()
         }
     }
 }
