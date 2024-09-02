@@ -10,6 +10,7 @@
 		4B050C232C1AFC1C008846CE /* SwiftUIGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B050C222C1AFC1C008846CE /* SwiftUIGradient.swift */; };
 		4B16C4D82C400EDC00C00DF2 /* SwiftUIBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B16C4D72C400EDC00C00DF2 /* SwiftUIBackground.swift */; };
 		4B16C4DA2C401F2C00C00DF2 /* SwiftUIOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B16C4D92C401F2C00C00DF2 /* SwiftUIOverlay.swift */; };
+		4B251B8D2C85E6270088B8F6 /* SwiftUILazyHGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B251B8C2C85E6270088B8F6 /* SwiftUILazyHGrid.swift */; };
 		4B3148542C7C86CD00DC703F /* SwiftUIScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B3148532C7C86CD00DC703F /* SwiftUIScrollView.swift */; };
 		4B34C8F52C6D312200AA323A /* SwiftUIFocusState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B34C8F42C6D312100AA323A /* SwiftUIFocusState.swift */; };
 		4B3BF7252C10E2800043A56D /* SwiftUIEllipse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B3BF7242C10E2800043A56D /* SwiftUIEllipse.swift */; };
@@ -46,6 +47,7 @@
 		4B050C222C1AFC1C008846CE /* SwiftUIGradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIGradient.swift; sourceTree = "<group>"; };
 		4B16C4D72C400EDC00C00DF2 /* SwiftUIBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBackground.swift; sourceTree = "<group>"; };
 		4B16C4D92C401F2C00C00DF2 /* SwiftUIOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIOverlay.swift; sourceTree = "<group>"; };
+		4B251B8C2C85E6270088B8F6 /* SwiftUILazyHGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUILazyHGrid.swift; sourceTree = "<group>"; };
 		4B3148532C7C86CD00DC703F /* SwiftUIScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIScrollView.swift; sourceTree = "<group>"; };
 		4B34C8F42C6D312100AA323A /* SwiftUIFocusState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIFocusState.swift; sourceTree = "<group>"; };
 		4B3BF7242C10E2800043A56D /* SwiftUIEllipse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIEllipse.swift; sourceTree = "<group>"; };
@@ -140,6 +142,7 @@
 				4B3148532C7C86CD00DC703F /* SwiftUIScrollView.swift */,
 				4BD255912C7F75D200B20E60 /* SwiftUILazyStack.swift */,
 				4BBEAB032C835E49008C8571 /* SwiftUILazyVGrid.swift */,
+				4B251B8C2C85E6270088B8F6 /* SwiftUILazyHGrid.swift */,
 				4BCFBE712C075E4000290B02 /* Assets.xcassets */,
 				4BCFBE732C075E4000290B02 /* Preview Content */,
 			);
@@ -234,6 +237,7 @@
 				4B694B422C32BFEA00696225 /* SwiftUIAsyncImage.swift in Sources */,
 				4B87CFAF2C3D85BD001234B1 /* SwiftUIZStack.swift in Sources */,
 				4B8F31F22C4C5BDF00C4855B /* SwiftUIButton.swift in Sources */,
+				4B251B8D2C85E6270088B8F6 /* SwiftUILazyHGrid.swift in Sources */,
 				4BCFBE702C075E3B00290B02 /* ContentView.swift in Sources */,
 				4B6F8C902C553C310092AD24 /* SwiftUIState.swift in Sources */,
 				4BCFBE7E2C076F8200290B02 /* SwiftUIText.swift in Sources */,
