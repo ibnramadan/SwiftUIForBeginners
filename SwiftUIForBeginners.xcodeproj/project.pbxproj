@@ -31,6 +31,7 @@
 		4B8F31F22C4C5BDF00C4855B /* SwiftUIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B8F31F12C4C5BDF00C4855B /* SwiftUIButton.swift */; };
 		4B9DD6972C946DD100BE3278 /* SwiftUISlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B9DD6962C946DD100BE3278 /* SwiftUISlider.swift */; };
 		4BA0708E2C45647A003CA7FD /* SwiftUISafeArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BA0708D2C45647A003CA7FD /* SwiftUISafeArea.swift */; };
+		4BAD2DE32C95869800E00AFB /* SwiftUITextSelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BAD2DE22C95869800E00AFB /* SwiftUITextSelection.swift */; };
 		4BBCEF232C7A33A300546163 /* SwiftUIForEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BBCEF222C7A33A300546163 /* SwiftUIForEach.swift */; };
 		4BBEAB042C835E49008C8571 /* SwiftUILazyVGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BBEAB032C835E49008C8571 /* SwiftUILazyVGrid.swift */; };
 		4BC5C6312C67DF93003A2DA1 /* SwiftUIOnAppear.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BC5C6302C67DF93003A2DA1 /* SwiftUIOnAppear.swift */; };
@@ -72,6 +73,7 @@
 		4B8F31F12C4C5BDF00C4855B /* SwiftUIButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIButton.swift; sourceTree = "<group>"; };
 		4B9DD6962C946DD100BE3278 /* SwiftUISlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUISlider.swift; sourceTree = "<group>"; };
 		4BA0708D2C45647A003CA7FD /* SwiftUISafeArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUISafeArea.swift; sourceTree = "<group>"; };
+		4BAD2DE22C95869800E00AFB /* SwiftUITextSelection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITextSelection.swift; sourceTree = "<group>"; };
 		4BBCEF222C7A33A300546163 /* SwiftUIForEach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIForEach.swift; sourceTree = "<group>"; };
 		4BBEAB032C835E49008C8571 /* SwiftUILazyVGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUILazyVGrid.swift; sourceTree = "<group>"; };
 		4BC5C6302C67DF93003A2DA1 /* SwiftUIOnAppear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIOnAppear.swift; sourceTree = "<group>"; };
@@ -155,6 +157,7 @@
 				4B3986612C8CD05F0071B532 /* SwiftUIToggle.swift */,
 				4B6EDC552C942ADE005D79BF /* SwiftUIStepper.swift */,
 				4B9DD6962C946DD100BE3278 /* SwiftUISlider.swift */,
+				4BAD2DE22C95869800E00AFB /* SwiftUITextSelection.swift */,
 				4BCFBE712C075E4000290B02 /* Assets.xcassets */,
 				4BCFBE732C075E4000290B02 /* Preview Content */,
 			);
@@ -275,6 +278,7 @@
 				4B43D53E2C0F9E7B0017E66B /* SwiftUICircle.swift in Sources */,
 				4B050C232C1AFC1C008846CE /* SwiftUIGradient.swift in Sources */,
 				4B8918202C26F2B400D3D949 /* SwiftUIImage.swift in Sources */,
+				4BAD2DE32C95869800E00AFB /* SwiftUITextSelection.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
