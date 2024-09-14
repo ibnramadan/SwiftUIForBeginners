@@ -32,6 +32,7 @@
 		4B9DD6972C946DD100BE3278 /* SwiftUISlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B9DD6962C946DD100BE3278 /* SwiftUISlider.swift */; };
 		4BA0708E2C45647A003CA7FD /* SwiftUISafeArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BA0708D2C45647A003CA7FD /* SwiftUISafeArea.swift */; };
 		4BAD2DE32C95869800E00AFB /* SwiftUITextSelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BAD2DE22C95869800E00AFB /* SwiftUITextSelection.swift */; };
+		4BAD2DE52C95A28D00E00AFB /* SwiftUITapGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BAD2DE42C95A28D00E00AFB /* SwiftUITapGesture.swift */; };
 		4BBCEF232C7A33A300546163 /* SwiftUIForEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BBCEF222C7A33A300546163 /* SwiftUIForEach.swift */; };
 		4BBEAB042C835E49008C8571 /* SwiftUILazyVGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BBEAB032C835E49008C8571 /* SwiftUILazyVGrid.swift */; };
 		4BC5C6312C67DF93003A2DA1 /* SwiftUIOnAppear.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BC5C6302C67DF93003A2DA1 /* SwiftUIOnAppear.swift */; };
@@ -74,6 +75,7 @@
 		4B9DD6962C946DD100BE3278 /* SwiftUISlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUISlider.swift; sourceTree = "<group>"; };
 		4BA0708D2C45647A003CA7FD /* SwiftUISafeArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUISafeArea.swift; sourceTree = "<group>"; };
 		4BAD2DE22C95869800E00AFB /* SwiftUITextSelection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITextSelection.swift; sourceTree = "<group>"; };
+		4BAD2DE42C95A28D00E00AFB /* SwiftUITapGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITapGesture.swift; sourceTree = "<group>"; };
 		4BBCEF222C7A33A300546163 /* SwiftUIForEach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIForEach.swift; sourceTree = "<group>"; };
 		4BBEAB032C835E49008C8571 /* SwiftUILazyVGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUILazyVGrid.swift; sourceTree = "<group>"; };
 		4BC5C6302C67DF93003A2DA1 /* SwiftUIOnAppear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIOnAppear.swift; sourceTree = "<group>"; };
@@ -158,6 +160,7 @@
 				4B6EDC552C942ADE005D79BF /* SwiftUIStepper.swift */,
 				4B9DD6962C946DD100BE3278 /* SwiftUISlider.swift */,
 				4BAD2DE22C95869800E00AFB /* SwiftUITextSelection.swift */,
+				4BAD2DE42C95A28D00E00AFB /* SwiftUITapGesture.swift */,
 				4BCFBE712C075E4000290B02 /* Assets.xcassets */,
 				4BCFBE732C075E4000290B02 /* Preview Content */,
 			);
@@ -261,6 +264,7 @@
 				4B6E50F22C398734004B7873 /* SwiftUIVStack.swift in Sources */,
 				4BD76B2A2C1353920011D177 /* SwiftUICapsule.swift in Sources */,
 				4B89760C2C64FF0E006FF25F /* SwiftUITextField.swift in Sources */,
+				4BAD2DE52C95A28D00E00AFB /* SwiftUITapGesture.swift in Sources */,
 				4BD76B282C134EE30011D177 /* SwiftUIRectangle.swift in Sources */,
 				4B9DD6972C946DD100BE3278 /* SwiftUISlider.swift in Sources */,
 				4BD7488E2C452968003B3FB1 /* SwiftUIPadding.swift in Sources */,
