@@ -51,6 +51,13 @@
 		4BDAF8422C19E34700114A8E /* SwiftUIColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDAF8412C19E34700114A8E /* SwiftUIColors.swift */; };
 		4BDD2C182CAAE4AB00A694E2 /* SwiftUIToolbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDD2C172CAAE4AB00A694E2 /* SwiftUIToolbar.swift */; };
 		4BDEC45A2C9AE40700560D00 /* SwiftUILink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDEC4592C9AE40700560D00 /* SwiftUILink.swift */; };
+		4BF60F572CB44CC400F25205 /* SwiftUIList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF60F562CB44CC400F25205 /* SwiftUIList.swift */; };
+		4BF60F8D2CB4679F00F25205 /* SwiftUIDisclosureGroupList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF60F8C2CB4679F00F25205 /* SwiftUIDisclosureGroupList.swift */; };
+		4BF60F8F2CB46C6000F25205 /* SwiftUIListChildren.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF60F8E2CB46C6000F25205 /* SwiftUIListChildren.swift */; };
+		4BF60F912CB475CE00F25205 /* SwiftUIListAction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF60F902CB475CE00F25205 /* SwiftUIListAction.swift */; };
+		4BF60F952CB4812500F25205 /* SwiftUIListSelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF60F942CB4812500F25205 /* SwiftUIListSelection.swift */; };
+		4BF60F992CB4860300F25205 /* SwiftUIListStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF60F982CB4860300F25205 /* SwiftUIListStyle.swift */; };
+		4BF60F9B2CB488A900F25205 /* SwiftUIListCustomization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF60F9A2CB488A900F25205 /* SwiftUIListCustomization.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -99,6 +106,13 @@
 		4BDAF8412C19E34700114A8E /* SwiftUIColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIColors.swift; sourceTree = "<group>"; };
 		4BDD2C172CAAE4AB00A694E2 /* SwiftUIToolbar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIToolbar.swift; sourceTree = "<group>"; };
 		4BDEC4592C9AE40700560D00 /* SwiftUILink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUILink.swift; sourceTree = "<group>"; };
+		4BF60F562CB44CC400F25205 /* SwiftUIList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIList.swift; sourceTree = "<group>"; };
+		4BF60F8C2CB4679F00F25205 /* SwiftUIDisclosureGroupList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDisclosureGroupList.swift; sourceTree = "<group>"; };
+		4BF60F8E2CB46C6000F25205 /* SwiftUIListChildren.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIListChildren.swift; sourceTree = "<group>"; };
+		4BF60F902CB475CE00F25205 /* SwiftUIListAction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIListAction.swift; sourceTree = "<group>"; };
+		4BF60F942CB4812500F25205 /* SwiftUIListSelection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIListSelection.swift; sourceTree = "<group>"; };
+		4BF60F982CB4860300F25205 /* SwiftUIListStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIListStyle.swift; sourceTree = "<group>"; };
+		4BF60F9A2CB488A900F25205 /* SwiftUIListCustomization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIListCustomization.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -173,6 +187,7 @@
 				4BDEC4592C9AE40700560D00 /* SwiftUILink.swift */,
 				4B7FC6C92CA089CD00578B44 /* SwiftUINavigationStack.swift */,
 				4BDD2C172CAAE4AB00A694E2 /* SwiftUIToolbar.swift */,
+				4BF60F552CB44CB000F25205 /* List */,
 				4BCFBE712C075E4000290B02 /* Assets.xcassets */,
 				4BCFBE732C075E4000290B02 /* Preview Content */,
 			);
@@ -185,6 +200,20 @@
 				4BCFBE742C075E4000290B02 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		4BF60F552CB44CB000F25205 /* List */ = {
+			isa = PBXGroup;
+			children = (
+				4BF60F562CB44CC400F25205 /* SwiftUIList.swift */,
+				4BF60F8C2CB4679F00F25205 /* SwiftUIDisclosureGroupList.swift */,
+				4BF60F8E2CB46C6000F25205 /* SwiftUIListChildren.swift */,
+				4BF60F902CB475CE00F25205 /* SwiftUIListAction.swift */,
+				4BF60F942CB4812500F25205 /* SwiftUIListSelection.swift */,
+				4BF60F982CB4860300F25205 /* SwiftUIListStyle.swift */,
+				4BF60F9A2CB488A900F25205 /* SwiftUIListCustomization.swift */,
+			);
+			path = List;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -266,14 +295,19 @@
 				4B16C4D82C400EDC00C00DF2 /* SwiftUIBackground.swift in Sources */,
 				4B694B422C32BFEA00696225 /* SwiftUIAsyncImage.swift in Sources */,
 				4B87CFAF2C3D85BD001234B1 /* SwiftUIZStack.swift in Sources */,
+				4BF60F992CB4860300F25205 /* SwiftUIListStyle.swift in Sources */,
+				4BF60F912CB475CE00F25205 /* SwiftUIListAction.swift in Sources */,
 				4B8F31F22C4C5BDF00C4855B /* SwiftUIButton.swift in Sources */,
 				4B251B8D2C85E6270088B8F6 /* SwiftUILazyHGrid.swift in Sources */,
+				4BF60F9B2CB488A900F25205 /* SwiftUIListCustomization.swift in Sources */,
+				4BF60F8F2CB46C6000F25205 /* SwiftUIListChildren.swift in Sources */,
 				4BCFBE702C075E3B00290B02 /* ContentView.swift in Sources */,
 				4B6F8C902C553C310092AD24 /* SwiftUIState.swift in Sources */,
 				4BCFBE7E2C076F8200290B02 /* SwiftUIText.swift in Sources */,
 				4B3BF7252C10E2800043A56D /* SwiftUIEllipse.swift in Sources */,
 				4BDAF8422C19E34700114A8E /* SwiftUIColors.swift in Sources */,
 				4B6E50F22C398734004B7873 /* SwiftUIVStack.swift in Sources */,
+				4BF60F952CB4812500F25205 /* SwiftUIListSelection.swift in Sources */,
 				4BD76B2A2C1353920011D177 /* SwiftUICapsule.swift in Sources */,
 				4B89760C2C64FF0E006FF25F /* SwiftUITextField.swift in Sources */,
 				4B66F1822C95C2CD008F56F0 /* SwiftUITapGesture.swift in Sources */,
@@ -281,6 +315,7 @@
 				4BDEC45A2C9AE40700560D00 /* SwiftUILink.swift in Sources */,
 				4B9DD6972C946DD100BE3278 /* SwiftUISlider.swift in Sources */,
 				4BD7488E2C452968003B3FB1 /* SwiftUIPadding.swift in Sources */,
+				4BF60F572CB44CC400F25205 /* SwiftUIList.swift in Sources */,
 				4B7391162C3AFA5E00E04D25 /* SwiftUIHStack.swift in Sources */,
 				4BC5C6332C67E559003A2DA1 /* SwiftUIOnSubmit.swift in Sources */,
 				4B3986622C8CD05F0071B532 /* SwiftUIToggle.swift in Sources */,
@@ -288,6 +323,7 @@
 				4BCFBE6E2C075E3B00290B02 /* SwiftUIForBeginnersApp.swift in Sources */,
 				4BD255922C7F75D200B20E60 /* SwiftUILazyStack.swift in Sources */,
 				4B6EDC562C942ADE005D79BF /* SwiftUIStepper.swift in Sources */,
+				4BF60F8D2CB4679F00F25205 /* SwiftUIDisclosureGroupList.swift in Sources */,
 				4B6D5F482C5D355B006EB73A /* SwiftUIBinding.swift in Sources */,
 				4B8EC6B32C88546B00A3E1AB /* SwiftUIGrid.swift in Sources */,
 				4BDD2C182CAAE4AB00A694E2 /* SwiftUIToolbar.swift in Sources */,
