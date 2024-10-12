@@ -51,6 +51,7 @@
 		4BDAF8422C19E34700114A8E /* SwiftUIColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDAF8412C19E34700114A8E /* SwiftUIColors.swift */; };
 		4BDD2C182CAAE4AB00A694E2 /* SwiftUIToolbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDD2C172CAAE4AB00A694E2 /* SwiftUIToolbar.swift */; };
 		4BDEC45A2C9AE40700560D00 /* SwiftUILink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDEC4592C9AE40700560D00 /* SwiftUILink.swift */; };
+		4BE416902CBAE8DD0012E8D8 /* SwiftUITabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE4168F2CBAE8DD0012E8D8 /* SwiftUITabView.swift */; };
 		4BF60F572CB44CC400F25205 /* SwiftUIList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF60F562CB44CC400F25205 /* SwiftUIList.swift */; };
 		4BF60F8D2CB4679F00F25205 /* SwiftUIDisclosureGroupList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF60F8C2CB4679F00F25205 /* SwiftUIDisclosureGroupList.swift */; };
 		4BF60F8F2CB46C6000F25205 /* SwiftUIListChildren.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF60F8E2CB46C6000F25205 /* SwiftUIListChildren.swift */; };
@@ -58,6 +59,9 @@
 		4BF60F952CB4812500F25205 /* SwiftUIListSelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF60F942CB4812500F25205 /* SwiftUIListSelection.swift */; };
 		4BF60F992CB4860300F25205 /* SwiftUIListStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF60F982CB4860300F25205 /* SwiftUIListStyle.swift */; };
 		4BF60F9B2CB488A900F25205 /* SwiftUIListCustomization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF60F9A2CB488A900F25205 /* SwiftUIListCustomization.swift */; };
+		4BFE56242CBAF63B009ED42F /* OnboardingModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BFE56232CBAF63B009ED42F /* OnboardingModel.swift */; };
+		4BFE56262CBAF68C009ED42F /* SwiftUIOnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BFE56252CBAF68C009ED42F /* SwiftUIOnboardingView.swift */; };
+		4BFE56282CBAF8BE009ED42F /* SwiftUIViewOnboardingPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BFE56272CBAF8BE009ED42F /* SwiftUIViewOnboardingPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -106,6 +110,7 @@
 		4BDAF8412C19E34700114A8E /* SwiftUIColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIColors.swift; sourceTree = "<group>"; };
 		4BDD2C172CAAE4AB00A694E2 /* SwiftUIToolbar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIToolbar.swift; sourceTree = "<group>"; };
 		4BDEC4592C9AE40700560D00 /* SwiftUILink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUILink.swift; sourceTree = "<group>"; };
+		4BE4168F2CBAE8DD0012E8D8 /* SwiftUITabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITabView.swift; sourceTree = "<group>"; };
 		4BF60F562CB44CC400F25205 /* SwiftUIList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIList.swift; sourceTree = "<group>"; };
 		4BF60F8C2CB4679F00F25205 /* SwiftUIDisclosureGroupList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDisclosureGroupList.swift; sourceTree = "<group>"; };
 		4BF60F8E2CB46C6000F25205 /* SwiftUIListChildren.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIListChildren.swift; sourceTree = "<group>"; };
@@ -113,6 +118,9 @@
 		4BF60F942CB4812500F25205 /* SwiftUIListSelection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIListSelection.swift; sourceTree = "<group>"; };
 		4BF60F982CB4860300F25205 /* SwiftUIListStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIListStyle.swift; sourceTree = "<group>"; };
 		4BF60F9A2CB488A900F25205 /* SwiftUIListCustomization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIListCustomization.swift; sourceTree = "<group>"; };
+		4BFE56232CBAF63B009ED42F /* OnboardingModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingModel.swift; sourceTree = "<group>"; };
+		4BFE56252CBAF68C009ED42F /* SwiftUIOnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIOnboardingView.swift; sourceTree = "<group>"; };
+		4BFE56272CBAF8BE009ED42F /* SwiftUIViewOnboardingPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIViewOnboardingPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -187,6 +195,8 @@
 				4BDEC4592C9AE40700560D00 /* SwiftUILink.swift */,
 				4B7FC6C92CA089CD00578B44 /* SwiftUINavigationStack.swift */,
 				4BDD2C172CAAE4AB00A694E2 /* SwiftUIToolbar.swift */,
+				4BE4168F2CBAE8DD0012E8D8 /* SwiftUITabView.swift */,
+				4BFE56222CBAF607009ED42F /* OnboardingView */,
 				4BF60F552CB44CB000F25205 /* List */,
 				4BCFBE712C075E4000290B02 /* Assets.xcassets */,
 				4BCFBE732C075E4000290B02 /* Preview Content */,
@@ -214,6 +224,16 @@
 				4BF60F9A2CB488A900F25205 /* SwiftUIListCustomization.swift */,
 			);
 			path = List;
+			sourceTree = "<group>";
+		};
+		4BFE56222CBAF607009ED42F /* OnboardingView */ = {
+			isa = PBXGroup;
+			children = (
+				4BFE56232CBAF63B009ED42F /* OnboardingModel.swift */,
+				4BFE56252CBAF68C009ED42F /* SwiftUIOnboardingView.swift */,
+				4BFE56272CBAF8BE009ED42F /* SwiftUIViewOnboardingPage.swift */,
+			);
+			path = OnboardingView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -309,6 +329,7 @@
 				4B6E50F22C398734004B7873 /* SwiftUIVStack.swift in Sources */,
 				4BF60F952CB4812500F25205 /* SwiftUIListSelection.swift in Sources */,
 				4BD76B2A2C1353920011D177 /* SwiftUICapsule.swift in Sources */,
+				4BFE56262CBAF68C009ED42F /* SwiftUIOnboardingView.swift in Sources */,
 				4B89760C2C64FF0E006FF25F /* SwiftUITextField.swift in Sources */,
 				4B66F1822C95C2CD008F56F0 /* SwiftUITapGesture.swift in Sources */,
 				4BD76B282C134EE30011D177 /* SwiftUIRectangle.swift in Sources */,
@@ -318,6 +339,9 @@
 				4BF60F572CB44CC400F25205 /* SwiftUIList.swift in Sources */,
 				4B7391162C3AFA5E00E04D25 /* SwiftUIHStack.swift in Sources */,
 				4BC5C6332C67E559003A2DA1 /* SwiftUIOnSubmit.swift in Sources */,
+				4BFE56242CBAF63B009ED42F /* OnboardingModel.swift in Sources */,
+				4BE416902CBAE8DD0012E8D8 /* SwiftUITabView.swift in Sources */,
+				4BFE56282CBAF8BE009ED42F /* SwiftUIViewOnboardingPage.swift in Sources */,
 				4B3986622C8CD05F0071B532 /* SwiftUIToggle.swift in Sources */,
 				4B7FC6CA2CA089CD00578B44 /* SwiftUINavigationStack.swift in Sources */,
 				4BCFBE6E2C075E3B00290B02 /* SwiftUIForBeginnersApp.swift in Sources */,
