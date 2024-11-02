@@ -15,6 +15,7 @@
 		4B34C8F52C6D312200AA323A /* SwiftUIFocusState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B34C8F42C6D312100AA323A /* SwiftUIFocusState.swift */; };
 		4B3986622C8CD05F0071B532 /* SwiftUIToggle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B3986612C8CD05F0071B532 /* SwiftUIToggle.swift */; };
 		4B3BF7252C10E2800043A56D /* SwiftUIEllipse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B3BF7242C10E2800043A56D /* SwiftUIEllipse.swift */; };
+		4B40288F2CCBFD8E00696FBA /* SwiftUIPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B40288E2CCBFD8E00696FBA /* SwiftUIPicker.swift */; };
 		4B43D53E2C0F9E7B0017E66B /* SwiftUICircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B43D53D2C0F9E7B0017E66B /* SwiftUICircle.swift */; };
 		4B48FF622C5AC41000AD4302 /* SwiftUIExtractViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B48FF612C5AC41000AD4302 /* SwiftUIExtractViews.swift */; };
 		4B66F1822C95C2CD008F56F0 /* SwiftUITapGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B66F1812C95C2CD008F56F0 /* SwiftUITapGesture.swift */; };
@@ -74,6 +75,7 @@
 		4B34C8F42C6D312100AA323A /* SwiftUIFocusState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIFocusState.swift; sourceTree = "<group>"; };
 		4B3986612C8CD05F0071B532 /* SwiftUIToggle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIToggle.swift; sourceTree = "<group>"; };
 		4B3BF7242C10E2800043A56D /* SwiftUIEllipse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIEllipse.swift; sourceTree = "<group>"; };
+		4B40288E2CCBFD8E00696FBA /* SwiftUIPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPicker.swift; sourceTree = "<group>"; };
 		4B43D53D2C0F9E7B0017E66B /* SwiftUICircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUICircle.swift; sourceTree = "<group>"; };
 		4B48FF612C5AC41000AD4302 /* SwiftUIExtractViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIExtractViews.swift; sourceTree = "<group>"; };
 		4B66F1812C95C2CD008F56F0 /* SwiftUITapGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITapGesture.swift; sourceTree = "<group>"; };
@@ -201,6 +203,7 @@
 				4BE4168F2CBAE8DD0012E8D8 /* SwiftUITabView.swift */,
 				4BFE56222CBAF607009ED42F /* OnboardingView */,
 				4BFDDCD52CC3DE6D00D6B87F /* SwiftUIBadges.swift */,
+				4B40288E2CCBFD8E00696FBA /* SwiftUIPicker.swift */,
 				4BCFBE712C075E4000290B02 /* Assets.xcassets */,
 				4BCFBE732C075E4000290B02 /* Preview Content */,
 			);
@@ -347,6 +350,7 @@
 				4BE416902CBAE8DD0012E8D8 /* SwiftUITabView.swift in Sources */,
 				4BFE56282CBAF8BE009ED42F /* SwiftUIViewOnboardingPage.swift in Sources */,
 				4B3986622C8CD05F0071B532 /* SwiftUIToggle.swift in Sources */,
+				4B40288F2CCBFD8E00696FBA /* SwiftUIPicker.swift in Sources */,
 				4B7FC6CA2CA089CD00578B44 /* SwiftUINavigationStack.swift in Sources */,
 				4BCFBE6E2C075E3B00290B02 /* SwiftUIForBeginnersApp.swift in Sources */,
 				4BD255922C7F75D200B20E60 /* SwiftUILazyStack.swift in Sources */,
