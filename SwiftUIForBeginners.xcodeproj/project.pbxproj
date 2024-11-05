@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4B050C232C1AFC1C008846CE /* SwiftUIGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B050C222C1AFC1C008846CE /* SwiftUIGradient.swift */; };
+		4B15016B2CDAA6670045976F /* SwiftUIColorPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B15016A2CDAA6670045976F /* SwiftUIColorPicker.swift */; };
 		4B16C4D82C400EDC00C00DF2 /* SwiftUIBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B16C4D72C400EDC00C00DF2 /* SwiftUIBackground.swift */; };
 		4B16C4DA2C401F2C00C00DF2 /* SwiftUIOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B16C4D92C401F2C00C00DF2 /* SwiftUIOverlay.swift */; };
 		4B251B8D2C85E6270088B8F6 /* SwiftUILazyHGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B251B8C2C85E6270088B8F6 /* SwiftUILazyHGrid.swift */; };
@@ -69,6 +70,7 @@
 
 /* Begin PBXFileReference section */
 		4B050C222C1AFC1C008846CE /* SwiftUIGradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIGradient.swift; sourceTree = "<group>"; };
+		4B15016A2CDAA6670045976F /* SwiftUIColorPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIColorPicker.swift; sourceTree = "<group>"; };
 		4B16C4D72C400EDC00C00DF2 /* SwiftUIBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBackground.swift; sourceTree = "<group>"; };
 		4B16C4D92C401F2C00C00DF2 /* SwiftUIOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIOverlay.swift; sourceTree = "<group>"; };
 		4B251B8C2C85E6270088B8F6 /* SwiftUILazyHGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUILazyHGrid.swift; sourceTree = "<group>"; };
@@ -207,6 +209,7 @@
 				4BFDDCD52CC3DE6D00D6B87F /* SwiftUIBadges.swift */,
 				4B40288E2CCBFD8E00696FBA /* SwiftUIPicker.swift */,
 				4BE6E2662CD8AB5D0033882B /* SwiftUIDatePicker.swift */,
+				4B15016A2CDAA6670045976F /* SwiftUIColorPicker.swift */,
 				4BCFBE712C075E4000290B02 /* Assets.xcassets */,
 				4BCFBE732C075E4000290B02 /* Preview Content */,
 			);
@@ -365,6 +368,7 @@
 				4BDD2C182CAAE4AB00A694E2 /* SwiftUIToolbar.swift in Sources */,
 				4BBCEF232C7A33A300546163 /* SwiftUIForEach.swift in Sources */,
 				4B16C4DA2C401F2C00C00DF2 /* SwiftUIOverlay.swift in Sources */,
+				4B15016B2CDAA6670045976F /* SwiftUIColorPicker.swift in Sources */,
 				4B48FF622C5AC41000AD4302 /* SwiftUIExtractViews.swift in Sources */,
 				4B70BA042C9600090080BAAD /* SwiftUILabel.swift in Sources */,
 				4B43D53E2C0F9E7B0017E66B /* SwiftUICircle.swift in Sources */,
