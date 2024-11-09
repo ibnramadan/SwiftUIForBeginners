@@ -34,6 +34,7 @@
 		4B89760C2C64FF0E006FF25F /* SwiftUITextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B89760B2C64FF0E006FF25F /* SwiftUITextField.swift */; };
 		4B8EC6B32C88546B00A3E1AB /* SwiftUIGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B8EC6B22C88546B00A3E1AB /* SwiftUIGrid.swift */; };
 		4B8F31F22C4C5BDF00C4855B /* SwiftUIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B8F31F12C4C5BDF00C4855B /* SwiftUIButton.swift */; };
+		4B9B14D32CDF8598000CF3CD /* SwiftUIGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B9B14D22CDF8598000CF3CD /* SwiftUIGroup.swift */; };
 		4B9DD6972C946DD100BE3278 /* SwiftUISlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B9DD6962C946DD100BE3278 /* SwiftUISlider.swift */; };
 		4BA0708E2C45647A003CA7FD /* SwiftUISafeArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BA0708D2C45647A003CA7FD /* SwiftUISafeArea.swift */; };
 		4BAD2DE32C95869800E00AFB /* SwiftUITextSelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BAD2DE22C95869800E00AFB /* SwiftUITextSelection.swift */; };
@@ -97,6 +98,7 @@
 		4B89760B2C64FF0E006FF25F /* SwiftUITextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITextField.swift; sourceTree = "<group>"; };
 		4B8EC6B22C88546B00A3E1AB /* SwiftUIGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIGrid.swift; sourceTree = "<group>"; };
 		4B8F31F12C4C5BDF00C4855B /* SwiftUIButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIButton.swift; sourceTree = "<group>"; };
+		4B9B14D22CDF8598000CF3CD /* SwiftUIGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIGroup.swift; sourceTree = "<group>"; };
 		4B9DD6962C946DD100BE3278 /* SwiftUISlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUISlider.swift; sourceTree = "<group>"; };
 		4BA0708D2C45647A003CA7FD /* SwiftUISafeArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUISafeArea.swift; sourceTree = "<group>"; };
 		4BAD2DE22C95869800E00AFB /* SwiftUITextSelection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITextSelection.swift; sourceTree = "<group>"; };
@@ -213,6 +215,7 @@
 				4BE6E2662CD8AB5D0033882B /* SwiftUIDatePicker.swift */,
 				4B15016A2CDAA6670045976F /* SwiftUIColorPicker.swift */,
 				4BD338552CDCBA930005E5F4 /* SwiftUIForm.swift */,
+				4B9B14D22CDF8598000CF3CD /* SwiftUIGroup.swift */,
 				4BCFBE712C075E4000290B02 /* Assets.xcassets */,
 				4BCFBE732C075E4000290B02 /* Preview Content */,
 			);
@@ -358,6 +361,7 @@
 				4BC5C6332C67E559003A2DA1 /* SwiftUIOnSubmit.swift in Sources */,
 				4BFE56242CBAF63B009ED42F /* OnboardingModel.swift in Sources */,
 				4BE416902CBAE8DD0012E8D8 /* SwiftUITabView.swift in Sources */,
+				4B9B14D32CDF8598000CF3CD /* SwiftUIGroup.swift in Sources */,
 				4BFE56282CBAF8BE009ED42F /* SwiftUIViewOnboardingPage.swift in Sources */,
 				4B3986622C8CD05F0071B532 /* SwiftUIToggle.swift in Sources */,
 				4B40288F2CCBFD8E00696FBA /* SwiftUIPicker.swift in Sources */,
