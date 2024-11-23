@@ -53,6 +53,7 @@
 		4BD7488E2C452968003B3FB1 /* SwiftUIPadding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BD7488D2C452968003B3FB1 /* SwiftUIPadding.swift */; };
 		4BD76B282C134EE30011D177 /* SwiftUIRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BD76B272C134EE30011D177 /* SwiftUIRectangle.swift */; };
 		4BD76B2A2C1353920011D177 /* SwiftUICapsule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BD76B292C1353920011D177 /* SwiftUICapsule.swift */; };
+		4BD916822CECFDF1000BD35C /* SwiftUIGroupBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BD916812CECFDF1000BD35C /* SwiftUIGroupBox.swift */; };
 		4BDAF8422C19E34700114A8E /* SwiftUIColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDAF8412C19E34700114A8E /* SwiftUIColors.swift */; };
 		4BDD2C182CAAE4AB00A694E2 /* SwiftUIToolbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDD2C172CAAE4AB00A694E2 /* SwiftUIToolbar.swift */; };
 		4BDEC45A2C9AE40700560D00 /* SwiftUILink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDEC4592C9AE40700560D00 /* SwiftUILink.swift */; };
@@ -120,6 +121,7 @@
 		4BD7488D2C452968003B3FB1 /* SwiftUIPadding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPadding.swift; sourceTree = "<group>"; };
 		4BD76B272C134EE30011D177 /* SwiftUIRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIRectangle.swift; sourceTree = "<group>"; };
 		4BD76B292C1353920011D177 /* SwiftUICapsule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUICapsule.swift; sourceTree = "<group>"; };
+		4BD916812CECFDF1000BD35C /* SwiftUIGroupBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIGroupBox.swift; sourceTree = "<group>"; };
 		4BDAF8412C19E34700114A8E /* SwiftUIColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIColors.swift; sourceTree = "<group>"; };
 		4BDD2C172CAAE4AB00A694E2 /* SwiftUIToolbar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIToolbar.swift; sourceTree = "<group>"; };
 		4BDEC4592C9AE40700560D00 /* SwiftUILink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUILink.swift; sourceTree = "<group>"; };
@@ -222,6 +224,7 @@
 				4B9B14D22CDF8598000CF3CD /* SwiftUIGroup.swift */,
 				4BF91F762CE8BF68004DD186 /* SwiftUIControlGroup.swift */,
 				4B6F2E382CEBB28E007AF8BE /* SwiftUIDisclosureGroup.swift */,
+				4BD916812CECFDF1000BD35C /* SwiftUIGroupBox.swift */,
 				4BCFBE712C075E4000290B02 /* Assets.xcassets */,
 				4BCFBE732C075E4000290B02 /* Preview Content */,
 			);
@@ -353,6 +356,7 @@
 				4BCFBE7E2C076F8200290B02 /* SwiftUIText.swift in Sources */,
 				4B3BF7252C10E2800043A56D /* SwiftUIEllipse.swift in Sources */,
 				4BDAF8422C19E34700114A8E /* SwiftUIColors.swift in Sources */,
+				4BD916822CECFDF1000BD35C /* SwiftUIGroupBox.swift in Sources */,
 				4B6E50F22C398734004B7873 /* SwiftUIVStack.swift in Sources */,
 				4BF60F952CB4812500F25205 /* SwiftUIListSelection.swift in Sources */,
 				4BD76B2A2C1353920011D177 /* SwiftUICapsule.swift in Sources */,
