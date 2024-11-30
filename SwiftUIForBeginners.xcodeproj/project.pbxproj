@@ -67,6 +67,7 @@
 		4BF60F952CB4812500F25205 /* SwiftUIListSelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF60F942CB4812500F25205 /* SwiftUIListSelection.swift */; };
 		4BF60F992CB4860300F25205 /* SwiftUIListStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF60F982CB4860300F25205 /* SwiftUIListStyle.swift */; };
 		4BF60F9B2CB488A900F25205 /* SwiftUIListCustomization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF60F9A2CB488A900F25205 /* SwiftUIListCustomization.swift */; };
+		4BF7FC8F2CFA17B400D92B79 /* SwiftUIAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF7FC8E2CFA17B400D92B79 /* SwiftUIAlert.swift */; };
 		4BF91F772CE8BF68004DD186 /* SwiftUIControlGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF91F762CE8BF68004DD186 /* SwiftUIControlGroup.swift */; };
 		4BFDDCD62CC3DE6D00D6B87F /* SwiftUIBadges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BFDDCD52CC3DE6D00D6B87F /* SwiftUIBadges.swift */; };
 		4BFE56242CBAF63B009ED42F /* OnboardingModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BFE56232CBAF63B009ED42F /* OnboardingModel.swift */; };
@@ -136,6 +137,7 @@
 		4BF60F942CB4812500F25205 /* SwiftUIListSelection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIListSelection.swift; sourceTree = "<group>"; };
 		4BF60F982CB4860300F25205 /* SwiftUIListStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIListStyle.swift; sourceTree = "<group>"; };
 		4BF60F9A2CB488A900F25205 /* SwiftUIListCustomization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIListCustomization.swift; sourceTree = "<group>"; };
+		4BF7FC8E2CFA17B400D92B79 /* SwiftUIAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAlert.swift; sourceTree = "<group>"; };
 		4BF91F762CE8BF68004DD186 /* SwiftUIControlGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIControlGroup.swift; sourceTree = "<group>"; };
 		4BFDDCD52CC3DE6D00D6B87F /* SwiftUIBadges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBadges.swift; sourceTree = "<group>"; };
 		4BFE56232CBAF63B009ED42F /* OnboardingModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingModel.swift; sourceTree = "<group>"; };
@@ -228,6 +230,7 @@
 				4B6F2E382CEBB28E007AF8BE /* SwiftUIDisclosureGroup.swift */,
 				4BD916812CECFDF1000BD35C /* SwiftUIGroupBox.swift */,
 				4B262D012CF219D600D32844 /* SwiftUISheets.swift */,
+				4BF7FC8E2CFA17B400D92B79 /* SwiftUIAlert.swift */,
 				4BCFBE712C075E4000290B02 /* Assets.xcassets */,
 				4BCFBE732C075E4000290B02 /* Preview Content */,
 			);
@@ -352,6 +355,7 @@
 				4BF60F912CB475CE00F25205 /* SwiftUIListAction.swift in Sources */,
 				4BF91F772CE8BF68004DD186 /* SwiftUIControlGroup.swift in Sources */,
 				4B8F31F22C4C5BDF00C4855B /* SwiftUIButton.swift in Sources */,
+				4BF7FC8F2CFA17B400D92B79 /* SwiftUIAlert.swift in Sources */,
 				4B251B8D2C85E6270088B8F6 /* SwiftUILazyHGrid.swift in Sources */,
 				4BF60F9B2CB488A900F25205 /* SwiftUIListCustomization.swift in Sources */,
 				4BF60F8F2CB46C6000F25205 /* SwiftUIListChildren.swift in Sources */,
