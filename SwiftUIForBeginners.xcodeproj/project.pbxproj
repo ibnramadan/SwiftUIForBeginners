@@ -16,6 +16,7 @@
 		4B3148542C7C86CD00DC703F /* SwiftUIScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B3148532C7C86CD00DC703F /* SwiftUIScrollView.swift */; };
 		4B34C8F52C6D312200AA323A /* SwiftUIFocusState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B34C8F42C6D312100AA323A /* SwiftUIFocusState.swift */; };
 		4B3986622C8CD05F0071B532 /* SwiftUIToggle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B3986612C8CD05F0071B532 /* SwiftUIToggle.swift */; };
+		4B3BB1742CFE051A00E92E6B /* SwiftUIPopover.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B3BB1732CFE051A00E92E6B /* SwiftUIPopover.swift */; };
 		4B3BF7252C10E2800043A56D /* SwiftUIEllipse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B3BF7242C10E2800043A56D /* SwiftUIEllipse.swift */; };
 		4B40288F2CCBFD8E00696FBA /* SwiftUIPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B40288E2CCBFD8E00696FBA /* SwiftUIPicker.swift */; };
 		4B43D53E2C0F9E7B0017E66B /* SwiftUICircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B43D53D2C0F9E7B0017E66B /* SwiftUICircle.swift */; };
@@ -85,6 +86,7 @@
 		4B3148532C7C86CD00DC703F /* SwiftUIScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIScrollView.swift; sourceTree = "<group>"; };
 		4B34C8F42C6D312100AA323A /* SwiftUIFocusState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIFocusState.swift; sourceTree = "<group>"; };
 		4B3986612C8CD05F0071B532 /* SwiftUIToggle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIToggle.swift; sourceTree = "<group>"; };
+		4B3BB1732CFE051A00E92E6B /* SwiftUIPopover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPopover.swift; sourceTree = "<group>"; };
 		4B3BF7242C10E2800043A56D /* SwiftUIEllipse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIEllipse.swift; sourceTree = "<group>"; };
 		4B40288E2CCBFD8E00696FBA /* SwiftUIPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPicker.swift; sourceTree = "<group>"; };
 		4B43D53D2C0F9E7B0017E66B /* SwiftUICircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUICircle.swift; sourceTree = "<group>"; };
@@ -231,6 +233,7 @@
 				4BD916812CECFDF1000BD35C /* SwiftUIGroupBox.swift */,
 				4B262D012CF219D600D32844 /* SwiftUISheets.swift */,
 				4BF7FC8E2CFA17B400D92B79 /* SwiftUIAlert.swift */,
+				4B3BB1732CFE051A00E92E6B /* SwiftUIPopover.swift */,
 				4BCFBE712C075E4000290B02 /* Assets.xcassets */,
 				4BCFBE732C075E4000290B02 /* Preview Content */,
 			);
@@ -339,6 +342,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B3BB1742CFE051A00E92E6B /* SwiftUIPopover.swift in Sources */,
 				4B34C8F52C6D312200AA323A /* SwiftUIFocusState.swift in Sources */,
 				4B3148542C7C86CD00DC703F /* SwiftUIScrollView.swift in Sources */,
 				4BA0708E2C45647A003CA7FD /* SwiftUISafeArea.swift in Sources */,
