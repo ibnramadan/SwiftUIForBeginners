@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4B050C232C1AFC1C008846CE /* SwiftUIGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B050C222C1AFC1C008846CE /* SwiftUIGradient.swift */; };
+		4B1331E82D0080ED008D615A /* SwiftUIConfirmationDialog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B1331E72D0080ED008D615A /* SwiftUIConfirmationDialog.swift */; };
 		4B15016B2CDAA6670045976F /* SwiftUIColorPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B15016A2CDAA6670045976F /* SwiftUIColorPicker.swift */; };
 		4B16C4D82C400EDC00C00DF2 /* SwiftUIBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B16C4D72C400EDC00C00DF2 /* SwiftUIBackground.swift */; };
 		4B16C4DA2C401F2C00C00DF2 /* SwiftUIOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B16C4D92C401F2C00C00DF2 /* SwiftUIOverlay.swift */; };
@@ -78,6 +79,7 @@
 
 /* Begin PBXFileReference section */
 		4B050C222C1AFC1C008846CE /* SwiftUIGradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIGradient.swift; sourceTree = "<group>"; };
+		4B1331E72D0080ED008D615A /* SwiftUIConfirmationDialog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIConfirmationDialog.swift; sourceTree = "<group>"; };
 		4B15016A2CDAA6670045976F /* SwiftUIColorPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIColorPicker.swift; sourceTree = "<group>"; };
 		4B16C4D72C400EDC00C00DF2 /* SwiftUIBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBackground.swift; sourceTree = "<group>"; };
 		4B16C4D92C401F2C00C00DF2 /* SwiftUIOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIOverlay.swift; sourceTree = "<group>"; };
@@ -234,6 +236,7 @@
 				4B262D012CF219D600D32844 /* SwiftUISheets.swift */,
 				4BF7FC8E2CFA17B400D92B79 /* SwiftUIAlert.swift */,
 				4B3BB1732CFE051A00E92E6B /* SwiftUIPopover.swift */,
+				4B1331E72D0080ED008D615A /* SwiftUIConfirmationDialog.swift */,
 				4BCFBE712C075E4000290B02 /* Assets.xcassets */,
 				4BCFBE732C075E4000290B02 /* Preview Content */,
 			);
@@ -372,6 +375,7 @@
 				4B6E50F22C398734004B7873 /* SwiftUIVStack.swift in Sources */,
 				4BF60F952CB4812500F25205 /* SwiftUIListSelection.swift in Sources */,
 				4BD76B2A2C1353920011D177 /* SwiftUICapsule.swift in Sources */,
+				4B1331E82D0080ED008D615A /* SwiftUIConfirmationDialog.swift in Sources */,
 				4BFE56262CBAF68C009ED42F /* SwiftUIOnboardingView.swift in Sources */,
 				4B89760C2C64FF0E006FF25F /* SwiftUITextField.swift in Sources */,
 				4B66F1822C95C2CD008F56F0 /* SwiftUITapGesture.swift in Sources */,
