@@ -22,6 +22,7 @@
 		4B40288F2CCBFD8E00696FBA /* SwiftUIPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B40288E2CCBFD8E00696FBA /* SwiftUIPicker.swift */; };
 		4B43D53E2C0F9E7B0017E66B /* SwiftUICircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B43D53D2C0F9E7B0017E66B /* SwiftUICircle.swift */; };
 		4B48FF622C5AC41000AD4302 /* SwiftUIExtractViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B48FF612C5AC41000AD4302 /* SwiftUIExtractViews.swift */; };
+		4B5A59DF2D01D5820066B26E /* SwiftUIAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5A59DE2D01D5820066B26E /* SwiftUIAnimation.swift */; };
 		4B5D09EB2D009FB000F636D6 /* SwiftUIMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5D09EA2D009FB000F636D6 /* SwiftUIMenu.swift */; };
 		4B5D09ED2D00BE5200F636D6 /* SwiftUIContextMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5D09EC2D00BE5200F636D6 /* SwiftUIContextMenu.swift */; };
 		4B66F1822C95C2CD008F56F0 /* SwiftUITapGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B66F1812C95C2CD008F56F0 /* SwiftUITapGesture.swift */; };
@@ -64,6 +65,7 @@
 		4BDEC45A2C9AE40700560D00 /* SwiftUILink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BDEC4592C9AE40700560D00 /* SwiftUILink.swift */; };
 		4BE416902CBAE8DD0012E8D8 /* SwiftUITabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE4168F2CBAE8DD0012E8D8 /* SwiftUITabView.swift */; };
 		4BE6E2672CD8AB5D0033882B /* SwiftUIDatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE6E2662CD8AB5D0033882B /* SwiftUIDatePicker.swift */; };
+		4BEC7D0E2D0DBB56005E6F2A /* SwiftUITransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BEC7D0D2D0DBB56005E6F2A /* SwiftUITransition.swift */; };
 		4BF60F572CB44CC400F25205 /* SwiftUIList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF60F562CB44CC400F25205 /* SwiftUIList.swift */; };
 		4BF60F8D2CB4679F00F25205 /* SwiftUIDisclosureGroupList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF60F8C2CB4679F00F25205 /* SwiftUIDisclosureGroupList.swift */; };
 		4BF60F8F2CB46C6000F25205 /* SwiftUIListChildren.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF60F8E2CB46C6000F25205 /* SwiftUIListChildren.swift */; };
@@ -95,6 +97,7 @@
 		4B40288E2CCBFD8E00696FBA /* SwiftUIPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPicker.swift; sourceTree = "<group>"; };
 		4B43D53D2C0F9E7B0017E66B /* SwiftUICircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUICircle.swift; sourceTree = "<group>"; };
 		4B48FF612C5AC41000AD4302 /* SwiftUIExtractViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIExtractViews.swift; sourceTree = "<group>"; };
+		4B5A59DE2D01D5820066B26E /* SwiftUIAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAnimation.swift; sourceTree = "<group>"; };
 		4B5D09EA2D009FB000F636D6 /* SwiftUIMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIMenu.swift; sourceTree = "<group>"; };
 		4B5D09EC2D00BE5200F636D6 /* SwiftUIContextMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIContextMenu.swift; sourceTree = "<group>"; };
 		4B66F1812C95C2CD008F56F0 /* SwiftUITapGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITapGesture.swift; sourceTree = "<group>"; };
@@ -138,6 +141,7 @@
 		4BDEC4592C9AE40700560D00 /* SwiftUILink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUILink.swift; sourceTree = "<group>"; };
 		4BE4168F2CBAE8DD0012E8D8 /* SwiftUITabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITabView.swift; sourceTree = "<group>"; };
 		4BE6E2662CD8AB5D0033882B /* SwiftUIDatePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDatePicker.swift; sourceTree = "<group>"; };
+		4BEC7D0D2D0DBB56005E6F2A /* SwiftUITransition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITransition.swift; sourceTree = "<group>"; };
 		4BF60F562CB44CC400F25205 /* SwiftUIList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIList.swift; sourceTree = "<group>"; };
 		4BF60F8C2CB4679F00F25205 /* SwiftUIDisclosureGroupList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDisclosureGroupList.swift; sourceTree = "<group>"; };
 		4BF60F8E2CB46C6000F25205 /* SwiftUIListChildren.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIListChildren.swift; sourceTree = "<group>"; };
@@ -243,6 +247,8 @@
 				4B1331E72D0080ED008D615A /* SwiftUIConfirmationDialog.swift */,
 				4B5D09EA2D009FB000F636D6 /* SwiftUIMenu.swift */,
 				4B5D09EC2D00BE5200F636D6 /* SwiftUIContextMenu.swift */,
+				4B5A59DE2D01D5820066B26E /* SwiftUIAnimation.swift */,
+				4BEC7D0D2D0DBB56005E6F2A /* SwiftUITransition.swift */,
 				4BCFBE712C075E4000290B02 /* Assets.xcassets */,
 				4BCFBE732C075E4000290B02 /* Preview Content */,
 			);
@@ -398,6 +404,7 @@
 				4B9B14D32CDF8598000CF3CD /* SwiftUIGroup.swift in Sources */,
 				4BFE56282CBAF8BE009ED42F /* SwiftUIViewOnboardingPage.swift in Sources */,
 				4B3986622C8CD05F0071B532 /* SwiftUIToggle.swift in Sources */,
+				4B5A59DF2D01D5820066B26E /* SwiftUIAnimation.swift in Sources */,
 				4B40288F2CCBFD8E00696FBA /* SwiftUIPicker.swift in Sources */,
 				4B7FC6CA2CA089CD00578B44 /* SwiftUINavigationStack.swift in Sources */,
 				4BCFBE6E2C075E3B00290B02 /* SwiftUIForBeginnersApp.swift in Sources */,
@@ -408,6 +415,7 @@
 				4B6D5F482C5D355B006EB73A /* SwiftUIBinding.swift in Sources */,
 				4B8EC6B32C88546B00A3E1AB /* SwiftUIGrid.swift in Sources */,
 				4BDD2C182CAAE4AB00A694E2 /* SwiftUIToolbar.swift in Sources */,
+				4BEC7D0E2D0DBB56005E6F2A /* SwiftUITransition.swift in Sources */,
 				4BBCEF232C7A33A300546163 /* SwiftUIForEach.swift in Sources */,
 				4B16C4DA2C401F2C00C00DF2 /* SwiftUIOverlay.swift in Sources */,
 				4B15016B2CDAA6670045976F /* SwiftUIColorPicker.swift in Sources */,
