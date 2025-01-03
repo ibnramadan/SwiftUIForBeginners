@@ -35,6 +35,7 @@
 		4B6F8C902C553C310092AD24 /* SwiftUIState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B6F8C8F2C553C310092AD24 /* SwiftUIState.swift */; };
 		4B70BA042C9600090080BAAD /* SwiftUILabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B70BA032C9600090080BAAD /* SwiftUILabel.swift */; };
 		4B7391162C3AFA5E00E04D25 /* SwiftUIHStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7391152C3AFA5E00E04D25 /* SwiftUIHStack.swift */; };
+		4B761CDC2D27FE510096D06D /* SwiftUIViewThatFits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B761CDB2D27FE510096D06D /* SwiftUIViewThatFits.swift */; };
 		4B7FC6CA2CA089CD00578B44 /* SwiftUINavigationStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7FC6C92CA089CD00578B44 /* SwiftUINavigationStack.swift */; };
 		4B82180F2C42C664000D2516 /* SwiftUIFrame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B82180E2C42C664000D2516 /* SwiftUIFrame.swift */; };
 		4B87CFAF2C3D85BD001234B1 /* SwiftUIZStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B87CFAE2C3D85BD001234B1 /* SwiftUIZStack.swift */; };
@@ -112,6 +113,7 @@
 		4B6F8C8F2C553C310092AD24 /* SwiftUIState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIState.swift; sourceTree = "<group>"; };
 		4B70BA032C9600090080BAAD /* SwiftUILabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUILabel.swift; sourceTree = "<group>"; };
 		4B7391152C3AFA5E00E04D25 /* SwiftUIHStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIHStack.swift; sourceTree = "<group>"; };
+		4B761CDB2D27FE510096D06D /* SwiftUIViewThatFits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIViewThatFits.swift; sourceTree = "<group>"; };
 		4B7FC6C92CA089CD00578B44 /* SwiftUINavigationStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUINavigationStack.swift; sourceTree = "<group>"; };
 		4B82180E2C42C664000D2516 /* SwiftUIFrame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIFrame.swift; sourceTree = "<group>"; };
 		4B87CFAE2C3D85BD001234B1 /* SwiftUIZStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIZStack.swift; sourceTree = "<group>"; };
@@ -255,6 +257,7 @@
 				4BEC7D0D2D0DBB56005E6F2A /* SwiftUITransition.swift */,
 				4B54B47C2D14652600319617 /* SwiftUICustomViewModifiers.swift */,
 				4BB608492D15CAB6008CB3F2 /* SwiftUITextEditor.swift */,
+				4B761CDB2D27FE510096D06D /* SwiftUIViewThatFits.swift */,
 				4BCFBE712C075E4000290B02 /* Assets.xcassets */,
 				4BCFBE732C075E4000290B02 /* Preview Content */,
 			);
@@ -413,6 +416,7 @@
 				4B3986622C8CD05F0071B532 /* SwiftUIToggle.swift in Sources */,
 				4B5A59DF2D01D5820066B26E /* SwiftUIAnimation.swift in Sources */,
 				4B40288F2CCBFD8E00696FBA /* SwiftUIPicker.swift in Sources */,
+				4B761CDC2D27FE510096D06D /* SwiftUIViewThatFits.swift in Sources */,
 				4B7FC6CA2CA089CD00578B44 /* SwiftUINavigationStack.swift in Sources */,
 				4B54B47D2D14652600319617 /* SwiftUICustomViewModifiers.swift in Sources */,
 				4BCFBE6E2C075E3B00290B02 /* SwiftUIForBeginnersApp.swift in Sources */,
