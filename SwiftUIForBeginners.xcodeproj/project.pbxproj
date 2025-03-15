@@ -26,6 +26,8 @@
 		4B5A59DF2D01D5820066B26E /* SwiftUIAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5A59DE2D01D5820066B26E /* SwiftUIAnimation.swift */; };
 		4B5D09EB2D009FB000F636D6 /* SwiftUIMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5D09EA2D009FB000F636D6 /* SwiftUIMenu.swift */; };
 		4B5D09ED2D00BE5200F636D6 /* SwiftUIContextMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5D09EC2D00BE5200F636D6 /* SwiftUIContextMenu.swift */; };
+		4B64A7E42D60C33E004F590D /* SwiftUIEnvironment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B64A7E32D60C33E004F590D /* SwiftUIEnvironment.swift */; };
+		4B64A7E62D60CEDF004F590D /* CustomFontKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B64A7E52D60CED0004F590D /* CustomFontKey.swift */; };
 		4B66F1822C95C2CD008F56F0 /* SwiftUITapGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B66F1812C95C2CD008F56F0 /* SwiftUITapGesture.swift */; };
 		4B694B422C32BFEA00696225 /* SwiftUIAsyncImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B694B412C32BFEA00696225 /* SwiftUIAsyncImage.swift */; };
 		4B6D5F482C5D355B006EB73A /* SwiftUIBinding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B6D5F472C5D355A006EB73A /* SwiftUIBinding.swift */; };
@@ -106,6 +108,8 @@
 		4B5A59DE2D01D5820066B26E /* SwiftUIAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAnimation.swift; sourceTree = "<group>"; };
 		4B5D09EA2D009FB000F636D6 /* SwiftUIMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIMenu.swift; sourceTree = "<group>"; };
 		4B5D09EC2D00BE5200F636D6 /* SwiftUIContextMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIContextMenu.swift; sourceTree = "<group>"; };
+		4B64A7E32D60C33E004F590D /* SwiftUIEnvironment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIEnvironment.swift; sourceTree = "<group>"; };
+		4B64A7E52D60CED0004F590D /* CustomFontKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomFontKey.swift; sourceTree = "<group>"; };
 		4B66F1812C95C2CD008F56F0 /* SwiftUITapGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITapGesture.swift; sourceTree = "<group>"; };
 		4B694B412C32BFEA00696225 /* SwiftUIAsyncImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAsyncImage.swift; sourceTree = "<group>"; };
 		4B6D5F472C5D355A006EB73A /* SwiftUIBinding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBinding.swift; sourceTree = "<group>"; };
@@ -264,6 +268,8 @@
 				4B761CDB2D27FE510096D06D /* SwiftUIViewThatFits.swift */,
 				4B7845BF2D32F1F300AEB420 /* SwiftUIContentUnavailableView.swift */,
 				4B860B0A2D451F73002311A8 /* SwiftUIProgressView.swift */,
+				4B64A7E32D60C33E004F590D /* SwiftUIEnvironment.swift */,
+				4B64A7E52D60CED0004F590D /* CustomFontKey.swift */,
 				4BCFBE712C075E4000290B02 /* Assets.xcassets */,
 				4BCFBE732C075E4000290B02 /* Preview Content */,
 			);
@@ -377,6 +383,7 @@
 				4B5D09EB2D009FB000F636D6 /* SwiftUIMenu.swift in Sources */,
 				4B3148542C7C86CD00DC703F /* SwiftUIScrollView.swift in Sources */,
 				4BA0708E2C45647A003CA7FD /* SwiftUISafeArea.swift in Sources */,
+				4B64A7E62D60CEDF004F590D /* CustomFontKey.swift in Sources */,
 				4BC5C6312C67DF93003A2DA1 /* SwiftUIOnAppear.swift in Sources */,
 				4B82180F2C42C664000D2516 /* SwiftUIFrame.swift in Sources */,
 				4BD338562CDCBA930005E5F4 /* SwiftUIForm.swift in Sources */,
@@ -387,6 +394,7 @@
 				4B694B422C32BFEA00696225 /* SwiftUIAsyncImage.swift in Sources */,
 				4B87CFAF2C3D85BD001234B1 /* SwiftUIZStack.swift in Sources */,
 				4B860B0B2D451F73002311A8 /* SwiftUIProgressView.swift in Sources */,
+				4B64A7E42D60C33E004F590D /* SwiftUIEnvironment.swift in Sources */,
 				4BF60F992CB4860300F25205 /* SwiftUIListStyle.swift in Sources */,
 				4BF60F912CB475CE00F25205 /* SwiftUIListAction.swift in Sources */,
 				4BF91F772CE8BF68004DD186 /* SwiftUIControlGroup.swift in Sources */,
